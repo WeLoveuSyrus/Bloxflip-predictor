@@ -1,6 +1,6 @@
 # Bloxflip-Mines-Predictor-Discord-Bot
 
-![image](https://user-images.githubusercontent.com/98252854/201436470-34c74a88-60c0-443d-a172-c07551284589.png)
+![image](https://cdn.discordapp.com/attachments/921863114503368754/1199335993359212644/FE86F0ED-E52B-47EE-8835-F6E583B36287.jpg?ex=65c22baf&is=65afb6af&hm=b5d324457381a3c1f191191254342f24c9417012f8b769c1a518ac4d5ec47c60&)
 
 ## 📝Features and Usage
 /mines (tile_amt) (round_id)\
